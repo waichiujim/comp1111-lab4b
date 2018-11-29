@@ -1,6 +1,6 @@
 milk
 cole
-tea
+blacktea
 coke
 water
 milktea
@@ -10,5 +10,5 @@ redteaa
 milktea
 coffe
 juice
-apple juice
-oran juice
+LEMON JUICE
+water
