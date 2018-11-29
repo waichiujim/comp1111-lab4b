@@ -4,3 +4,6 @@ tea
 coke
 water
 milktea
+juicee
+greenteaa
+redteaa
