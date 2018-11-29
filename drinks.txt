@@ -1,5 +1,5 @@
 milk
-cock
+cole
 tea
 coke
 water
@@ -7,3 +7,8 @@ milktea
 juicee
 greenteaa
 redteaa
+milktea
+coffe
+juice
+apple juice
+oran juice
