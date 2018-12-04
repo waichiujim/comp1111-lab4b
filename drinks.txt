@@ -5,5 +5,5 @@ coke
 water
 milktea
 juicee
-greenteaa
-redteaa
+greentea
+redtea
